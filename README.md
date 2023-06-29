@@ -3,8 +3,8 @@ Hi! I'm
 ## Afzal Hussain Rian
 ## Full Stack Developer
 Welcome to my Github! I'm a passionate MERN stack web developer with expertise in HTML, CSS, JavaScript, React, Express.js, Node.js, and MongoDB. With a strong foundation in front-end development, I strive to create captivating user interfaces and seamless user experiences. I enjoy turning ideas into functional and visually appealing websites and web applications.
-- 📫 [Portfolio](https://afzal-hussain-2023.web.app/)
 - 💬 if you have any inquiries or if you'd like to discuss potential opportunities.
+- 📫 How to reach me: [Portfolio](https://afzal-hussain-2023.web.app/) | [Resume](https://docs.google.com/document/d/1ePp2ZCx6vAnTpWdsuWw-krMCovmzUCuS/edit?usp=sharing&ouid=102920039036917189744&rtpof=true&sd=true)
 
 <!--
 **marsrian/marsrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
