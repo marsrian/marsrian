@@ -24,7 +24,7 @@
 <a href="https://twitter.com/@marsrian40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@marsrian40" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/afzal-hussain-rian-91606a267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afzal-hussain-rian-91606a267" height="30" width="40" /></a>
 <a href="https://fb.com/afzal.hussain.rian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afzal.hussain.rian" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@marsrian7305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@marsrian7305" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@marsrian7305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@marsrian7305" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
